@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Alice",
+    "preferences": {
+      "Monday": "morning",
+      "Tuesday": "morning",
+      "Wednesday": "morning",
+      "Thursday": "afternoon",
+      "Friday": "afternoon",
+      "Saturday": "evening",
+      "Sunday": "evening"
+    }
+  },
+  {
+    "name": "Bob",
+    "preferences": {
+      "Monday": "afternoon",
+      "Tuesday": "evening",
+      "Wednesday": "morning",
+      "Thursday": "morning",
+      "Friday": "evening",
+      "Saturday": "afternoon",
+      "Sunday": "morning"
+    }
+  },
+  {
+    "name": "Charlie",
+    "preferences": {
+      "Monday": "evening",
+      "Tuesday": "afternoon",
+      "Wednesday": "evening",
+      "Thursday": "morning",
+      "Friday": "morning",
+      "Saturday": "morning",
+      "Sunday": "afternoon"
+    }
+  },
+  {
+    "name": "Diana",
+    "preferences": {
+      "Monday": "morning",
+      "Tuesday": "morning",
+      "Wednesday": "afternoon",
+      "Thursday": "afternoon",
+      "Friday": "morning",
+      "Saturday": "morning",
+      "Sunday": "evening"
+    }
+  },
+  {
+    "name": "Ethan",
+    "preferences": {
+      "Monday": "afternoon",
+      "Tuesday": "afternoon",
+      "Wednesday": "afternoon",
+      "Thursday": "evening",
+      "Friday": "evening",
+      "Saturday": "afternoon",
+      "Sunday": "morning"
+    }
+  },
+  {
+    "name": "Fiona",
+    "preferences": {
+      "Monday": "evening",
+      "Tuesday": "morning",
+      "Wednesday": "morning",
+      "Thursday": "evening",
+      "Friday": "afternoon",
+      "Saturday": "evening",
+      "Sunday": "afternoon"
+    }
+  },
+  {
+    "name": "George",
+    "preferences": {
+      "Monday": "morning",
+      "Tuesday": "evening",
+      "Wednesday": "afternoon",
+      "Thursday": "afternoon",
+      "Friday": "evening",
+      "Saturday": "morning",
+      "Sunday": "morning"
+    }
+  },
+  {
+    "name": "Hannah",
+    "preferences": {
+      "Monday": "afternoon",
+      "Tuesday": "evening",
+      "Wednesday": "evening",
+      "Thursday": "morning",
+      "Friday": "afternoon",
+      "Saturday": "afternoon",
+      "Sunday": "evening"
+    }
+  },
+  {
+    "name": "Ian",
+    "preferences": {
+      "Monday": "evening",
+      "Tuesday": "morning",
+      "Wednesday": "afternoon",
+      "Thursday": "evening",
+      "Friday": "morning",
+      "Saturday": "evening",
+      "Sunday": "afternoon"
+    }
+  },
+  {
+    "name": "Jack",
+    "preferences": {
+      "Monday": "morning",
+      "Tuesday": "afternoon",
+      "Wednesday": "evening",
+      "Thursday": "morning",
+      "Friday": "evening",
+      "Saturday": "morning",
+      "Sunday": "afternoon"
+    }
+  }
+]
