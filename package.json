@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "tsx": "4.19.3"
+  },
+  "scripts": {
+    "start": "tsx jsversion.ts"
+  }
+}

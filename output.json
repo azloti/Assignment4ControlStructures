@@ -1,0 +1,100 @@
+{
+  "Monday": {
+    "morning": [
+      "Alice",
+      "Diana"
+    ],
+    "afternoon": [
+      "Bob",
+      "Ethan"
+    ],
+    "evening": [
+      "Charlie",
+      "Fiona"
+    ]
+  },
+  "Tuesday": {
+    "morning": [
+      "Alice",
+      "Diana"
+    ],
+    "afternoon": [
+      "Charlie",
+      "Ethan"
+    ],
+    "evening": [
+      "Bob",
+      "George"
+    ]
+  },
+  "Wednesday": {
+    "morning": [
+      "Alice",
+      "Bob"
+    ],
+    "afternoon": [
+      "Diana",
+      "Ethan"
+    ],
+    "evening": [
+      "Charlie",
+      "Hannah"
+    ]
+  },
+  "Thursday": {
+    "morning": [
+      "Bob",
+      "Charlie"
+    ],
+    "afternoon": [
+      "Alice",
+      "Diana"
+    ],
+    "evening": [
+      "Ethan",
+      "Fiona"
+    ]
+  },
+  "Friday": {
+    "morning": [
+      "Charlie",
+      "Diana"
+    ],
+    "afternoon": [
+      "Alice",
+      "Fiona"
+    ],
+    "evening": [
+      "George",
+      "Jack"
+    ]
+  },
+  "Saturday": {
+    "morning": [
+      "George",
+      "Jack"
+    ],
+    "afternoon": [
+      "Bob",
+      "Hannah"
+    ],
+    "evening": [
+      "Fiona",
+      "Ian"
+    ]
+  },
+  "Sunday": {
+    "morning": [
+      "Ethan",
+      "George"
+    ],
+    "afternoon": [
+      "Fiona",
+      "Ian"
+    ],
+    "evening": [
+      "Hannah",
+      "Jack"
+    ]
+  }
+}
